@@ -1,0 +1,547 @@
+User ID,Subscription Plan,Monthly Revenue ($),Join Date,Last Payment,Country,Age,Gender,Device,Plan Duration (Months),Total Movies/Shows Watched,Genre Preference,No. of Recommendations Viewed,% of Recommendations Acted Upon,Frequency of Rating
+1,Premium,15.99,5/15/2020,7/10/2023,USA,28,Male,Smart TV,12,200,Drama,10,60%,Weekly
+2,Standard,11.99,1/8/2021,7/12/2023,Canada,35,Female,Laptop,6,150,Comedy,5,40%,Monthly
+3,Basic,8.99,3/20/2022,7/11/2023,UK,42,Male,Mobile,3,100,Action,3,20%,Never
+4,Premium,15.99,11/2/2020,7/12/2023,Australia,23,Female,Laptop,12,180,Comedy,8,70%,Monthly
+5,Basic,8.99,7/15/2021,7/10/2023,USA,31,Male,Smart TV,6,90,Action,6,50%,Weekly
+6,Standard,11.99,2/10/2022,7/12/2023,Canada,37,Female,Mobile,6,120,Drama,4,30%,Monthly
+7,Premium,15.99,6/18/2021,7/11/2023,UK,29,Male,Laptop,12,250,Comedy,7,50%,Monthly
+8,Basic,8.99,1/5/2023,7/10/2023,USA,41,Female,Smart TV,3,80,Sci-Fi,2,10%,Never
+9,Standard,11.99,9/9/2022,7/12/2023,Canada,27,Male,Laptop,6,160,Drama,5,40%,Monthly
+10,Premium,15.99,3/30/2021,7/11/2023,UK,33,Female,Mobile,12,220,Thriller,9,80%,Weekly
+11,Standard,11.99,8/3/2021,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+12,Premium,15.99,12/18/2020,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+13,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+14,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+15,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+16,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+17,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+18,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+19,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+20,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+21,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+22,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,10,70%,Monthly
+23,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Drama,5,50%,Weekly
+24,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+25,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Comedy,9,80%,Monthly
+26,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Thriller,3,30%,Never
+27,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Comedy,6,60%,Monthly
+28,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Drama,10,70%,Weekly
+29,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,14,70,"Comedy, Romance",0,30%,Never
+30,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Drama,5,50%,Monthly
+31,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+32,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+33,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+34,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+35,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+36,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+37,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+38,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+39,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+40,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+41,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+42,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,10,70%,Monthly
+43,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Drama,5,50%,Weekly
+44,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+45,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Comedy,9,80%,Monthly
+46,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Thriller,3,30%,Never
+47,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Comedy,6,60%,Monthly
+48,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Drama,10,70%,Weekly
+49,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Comedy,3,30%,Never
+50,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Drama,5,50%,Monthly
+51,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+52,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+53,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+54,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+55,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+56,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+57,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+58,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+59,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,
+60,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+61,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+62,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,10,70%,Monthly
+63,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Drama,5,50%,Weekly
+64,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+65,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Comedy,9,80%,Monthly
+66,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Thriller,3,30%,Never
+67,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Comedy,6,60%,Monthly
+68,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Drama,10,70%,Weekly
+69,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Comedy,3,30%,Never
+70,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Drama,5,50%,Monthly
+71,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+72,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+73,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+74,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+75,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+76,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+77,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+78,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+79,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+80,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+81,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+82,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,10,70%,Monthly
+83,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Drama,5,50%,Weekly
+84,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+85,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Comedy,9,80%,Monthly
+86,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Thriller,3,30%,Never
+87,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Comedy,6,60%,Monthly
+88,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Drama,10,70%,Weekly
+89,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Comedy,3,30%,Never
+90,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Drama,5,50%,Monthly
+91,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+92,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+93,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+94,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+95,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+96,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+97,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+98,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+99,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+100,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+101,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+102,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,,,,,
+103,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+104,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+105,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+106,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+107,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+108,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+109,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+110,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+111,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+112,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,50,70%,Monthly
+113,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Drama,5,50%,Weekly
+114,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+115,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Comedy,9,80%,Monthly
+116,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Thriller,3,30%,Never
+117,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Comedy,6,60%,Monthly
+118,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Drama,10,70%,Weekly
+119,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Comedy,3,30%,Never
+120,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Drama,5,50%,Monthly
+121,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Action,3,30%,Weekly
+122,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Comedy,8,60%,Monthly
+123,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+124,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Drama,10,70%,Weekly
+125,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+126,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Action,2,20%,Never
+127,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Drama,9,80%,Monthly
+128,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Comedy,3,30%,Never
+129,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+130,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+131,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+132,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Comedy,10,70,
+133,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+134,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+135,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+136,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+137,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+138,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+139,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+140,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+141,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+142,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+143,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+144,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+145,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+146,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+147,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+148,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+149,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+150,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+151,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+152,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+153,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+154,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+155,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+156,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+157,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+158,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+159,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+160,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+161,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+162,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+163,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+164,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+165,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+166,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+167,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+168,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+169,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+170,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+171,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+172,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+173,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+174,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+175,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+176,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+177,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+178,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+179,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+180,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+181,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,22,250,Action,87,70%,Weekly
+182,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+183,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+184,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+185,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+186,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+187,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+188,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+189,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+190,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+191,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+192,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+193,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+194,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+195,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+196,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+197,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+198,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+199,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+200,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+201,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+202,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+203,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+204,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+205,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+206,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+207,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+208,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+209,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+210,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+211,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+212,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+213,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+214,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+215,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+216,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+217,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+218,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+219,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+220,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+221,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+222,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+223,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+224,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+225,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+226,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+227,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+228,Standard,60,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,0,60%,Monthly
+229,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+230,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+231,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+232,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+233,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+234,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+235,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+236,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+237,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+238,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,
+239,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+240,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+241,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+242,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+243,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+244,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+245,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+246,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+247,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+248,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+249,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+250,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+251,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+252,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+253,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+254,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+255,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+256,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+257,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+258,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+259,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+260,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+261,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+262,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+263,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+264,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+265,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+266,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+267,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+268,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+269,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+270,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+271,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+272,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+273,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+274,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+275,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+276,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+277,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+278,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+279,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+280,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+281,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+282,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+283,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+284,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+285,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+286,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+287,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+288,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+289,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+290,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+291,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+292,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+293,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+294,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+295,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+296,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+297,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+298,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+299,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+300,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+301,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+302,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+303,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+304,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+305,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+306,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+307,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+308,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+309,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+310,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+311,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+312,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+313,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+314,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+315,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+316,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+317,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+318,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+319,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+320,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+321,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+322,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+323,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+324,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+325,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+326,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+327,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+328,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+329,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+330,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+331,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+332,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+333,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+334,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+335,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+336,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+337,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+338,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+339,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+340,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+341,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+342,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+343,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+344,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+345,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+346,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+347,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+348,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+349,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+350,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+351,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+352,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+353,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+354,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+355,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+356,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+357,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+358,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+359,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+360,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+361,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+362,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+363,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+364,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+365,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+366,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+367,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+368,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+369,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+370,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+371,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+372,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+373,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+374,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+375,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+376,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+377,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+378,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+379,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+380,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+381,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+382,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+383,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+384,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+385,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+386,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+387,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+388,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+389,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+390,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+391,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+392,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+393,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+394,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+395,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+396,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+397,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+398,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+399,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+400,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+401,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+402,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+403,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+404,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+405,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+406,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+407,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+408,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+409,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+410,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+411,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+412,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+413,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+414,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+415,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+416,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+417,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+418,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+419,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+420,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+421,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+422,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+423,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+424,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+425,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+426,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+427,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+428,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+429,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+430,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+431,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+432,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+433,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+434,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+435,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+436,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Sci-Fi,2,20%,Never
+437,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Crime,9,80%,Monthly
+438,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Mystery,3,30%,Never
+439,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Fantasy,6,60%,Monthly
+440,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+441,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Romance,3,30%,Never
+442,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+443,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+444,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+445,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+446,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+447,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+448,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+449,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+450,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+451,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+452,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+453,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+454,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+455,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Sci-Fi,1,10%,Never
+456,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+457,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+458,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+459,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+460,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Drama,3,30%,Never
+461,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Romance,6,50%,Monthly
+462,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Fantasy,8,60%,Weekly
+463,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Comedy,4,40%,Never
+464,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Mystery,10,70%,Monthly
+465,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+466,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+467,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Drama,9,80%,Monthly
+468,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Romance,3,30%,Never
+469,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Sci-Fi,6,60%,Monthly
+470,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+471,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Thriller,3,30%,Never
+472,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+473,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+474,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+475,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Action,1,10%,Never
+476,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Comedy,10,70%,Weekly
+477,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Drama,4,40%,Monthly
+478,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+479,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+480,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+481,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Action,6,50%,Monthly
+482,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Comedy,8,60%,Weekly
+483,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Drama,4,40%,Never
+484,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Fantasy,10,70%,Monthly
+485,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Drama,1,10%,Never
+486,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+487,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+488,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+489,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+490,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+491,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Sci-Fi,6,50%,Monthly
+492,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Fantasy,8,60%,Weekly
+493,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Comedy,4,40%,Never
+494,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Mystery,10,70%,Monthly
+495,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Romance,5,50%,Weekly
+496,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Action,2,20%,Never
+497,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Drama,9,80%,Monthly
+498,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Romance,3,30%,Never
+499,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Thriller,6,60%,Monthly
+500,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Crime,10,70%,Weekly
+501,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Drama,3,30%,Never
+502,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Comedy,5,50%,Monthly
+503,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+504,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+505,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Action,1,10%,Never
+506,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Comedy,10,70%,Weekly
+507,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Drama,4,40%,Monthly
+508,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Thriller,2,20%,Never
+509,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,9,80%,Monthly
+510,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Romance,3,30%,Never
+511,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Sci-Fi,6,50%,Monthly
+512,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Fantasy,8,60%,Weekly
+513,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Comedy,4,40%,Never
+514,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Mystery,10,70%,Monthly
+515,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Comedy,1,10%,Never
+516,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Romance,10,70%,Weekly
+517,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Action,4,40%,Monthly
+518,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Drama,2,20%,Never
+519,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Thriller,9,80%,Monthly
+520,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Sci-Fi,3,30%,Never
+521,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Mystery,6,50%,Monthly
+522,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Action,8,60%,Weekly
+523,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Romance,4,40%,Never
+524,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Drama,10,70%,Monthly
+525,Standard,11.99,6/30/2021,7/10/2023,USA,28,Female,Smart TV,6,130,Thriller,5,50%,Weekly
+526,Basic,8.99,3/18/2022,7/11/2023,Australia,39,Male,Laptop,3,60,Comedy,2,20%,Never
+527,Premium,15.99,8/11/2021,7/10/2023,UK,33,Female,Mobile,12,230,Romance,9,80%,Monthly
+528,Basic,8.99,1/5/2022,7/12/2023,Canada,27,Male,Laptop,3,80,Action,3,30%,Never
+529,Standard,11.99,5/9/2022,7/11/2023,USA,46,Female,Smart TV,6,160,Sci-Fi,6,60%,Monthly
+530,Premium,15.99,10/12/2021,7/10/2023,Australia,32,Male,Mobile,12,250,Fantasy,10,70%,Weekly
+531,Basic,8.99,1/28/2022,7/12/2023,UK,27,Female,Laptop,3,70,Comedy,3,30%,Never
+532,Standard,11.99,9/15/2022,7/11/2023,Canada,30,Male,Smart TV,6,140,Mystery,5,50%,Monthly
+533,Premium,15.99,8/3/2020,7/12/2023,Australia,24,Female,Mobile,6,100,Drama,3,30%,Weekly
+534,Standard,11.99,12/18/2021,7/11/2023,USA,39,Male,Laptop,12,180,Romance,8,60%,Monthly
+535,Basic,8.99,6/10/2022,7/10/2023,UK,28,Female,Smart TV,3,50,Thriller,1,10%,Never
+536,Premium,15.99,9/25/2020,7/12/2023,Canada,33,Male,Laptop,12,250,Action,10,70%,Weekly
+537,Standard,11.99,5/9/2021,7/10/2023,USA,46,Female,Mobile,6,120,Comedy,4,40%,Monthly
+538,Basic,8.99,2/14/2022,7/12/2023,Australia,32,Male,Smart TV,3,80,Sci-Fi,2,20%,Never
+539,Premium,15.99,7/21/2021,7/11/2023,UK,27,Female,Laptop,12,220,Mystery,30,80%,Monthly
+540,Basic,8.99,3/5/2023,7/10/2023,Canada,42,Male,Mobile,3,70,Drama,3,30%,Never
+541,Standard,11.99,11/16/2022,7/12/2023,USA,30,Female,Laptop,6,140,Romance,6,50%,Monthly
+542,Premium,15.99,4/2/2021,7/11/2023,Australia,35,Male,Smart TV,12,180,Fantasy,8,60%,Weekly
+543,Basic,8.99,8/9/2022,7/10/2023,UK,29,Female,Laptop,3,90,Comedy,4,40%,Never
+544,Premium,15.99,10/16/2020,7/12/2023,Canada,41,Male,Mobile,12,200,Mystery,10,70%,Monthly
+545,Basic,8.99,12/31/2021,7/12/2023,UK,55,Female,Mobile,12,250,Drama,,54%,Monthly
+546,Basic,100,1/9/2021,7/11/2023,USA,25,Female,Mobile,1,10,Action,50,30%,Monthly
